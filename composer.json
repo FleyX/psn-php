@@ -1,5 +1,5 @@
 {
-    "name": "FleyX/psn-php",
+    "name": "fleyx/psn-php",
     "license": "MIT",
     "description": "PHP wrapper for the PlayStation API.support English and Chinese",
     "homepage": "https://github.com/Tustin/psn-php",
