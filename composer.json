@@ -1,7 +1,7 @@
 {
-    "name": "tustin/psn-php",
+    "name": "FleyX/psn-php",
     "license": "MIT",
-    "description": "PHP wrapper for the PlayStation API.",
+    "description": "PHP wrapper for the PlayStation API.support English and Chinese",
     "homepage": "https://github.com/Tustin/psn-php",
     "keywords": ["playstation", "api", "php"],
     "autoload": {
